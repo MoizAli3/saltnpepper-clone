@@ -136,6 +136,7 @@
   color: white;
   position: relative;
   padding: 5rem 0;
+  z-index: 10;
 }
 
 .Rest-location .s-style {
@@ -145,6 +146,7 @@
   right: 20px;
   top: -90px;
   color: #1b1b1b;
+  z-index: -1;
 }
 
 .rest-content {
@@ -184,6 +186,7 @@
   align-items: center;
   padding: 5rem 0;
   position: relative;
+  z-index: 10;
 }
 
 .franchise .shadow-img {
@@ -199,7 +202,7 @@
   left: 10px;
   top: -98px;
   color: #0d0d0d;
-  z-index: 1;
+  z-index: -1;
 }
 
 
